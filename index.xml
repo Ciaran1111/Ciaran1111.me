@@ -9,49 +9,40 @@
     <lastBuildDate>Wed, 03 Aug 2022 19:24:19 +0100</lastBuildDate><atom:link href="https://ciaran1111.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CMP109 - Computer networking</title>
-      <link>https://ciaran1111.me/post/cmp109/</link>
+      <link>https://ciaran1111.me/post/networking/</link>
       <pubDate>Wed, 03 Aug 2022 19:24:19 +0100</pubDate>
       
-      <guid>https://ciaran1111.me/post/cmp109/</guid>
+      <guid>https://ciaran1111.me/post/networking/</guid>
       <description>The final assingment to this module envolved creating two python socket applications in python. One which would function as a calculator, taking an operation from the client and calculating it on the server. The second was a file transfer application which would have the server work out how many characters and words there was present in a text file. The code for the file transfer application is shown below.
 Client:</description>
     </item>
     
     <item>
       <title>CMP101</title>
-      <link>https://ciaran1111.me/post/cmp101/</link>
+      <link>https://ciaran1111.me/post/compsys/</link>
       <pubDate>Wed, 03 Aug 2022 18:44:35 +0100</pubDate>
       
-      <guid>https://ciaran1111.me/post/cmp101/</guid>
+      <guid>https://ciaran1111.me/post/compsys/</guid>
       <description>Computer Hardware Architecture and Operating Systems:
 The final assignment for this module was to use a wemos board to create something useful. I chose to create an alarm clock which would use of a RTC module to keep track of time, a 7 segment display, a OLED screen and a piezo sounder to sound the alarm. The repo containg the code</description>
     </item>
     
     <item>
-      <title>CMP102(Software Design)</title>
-      <link>https://ciaran1111.me/post/cmp102/</link>
+      <title>Software design</title>
+      <link>https://ciaran1111.me/post/program2/</link>
       <pubDate>Tue, 02 Aug 2022 19:36:35 +0100</pubDate>
       
-      <guid>https://ciaran1111.me/post/cmp102/</guid>
-      <description>CMP102, was on evolution on the previous C++ module. This module most notably took a look into concepts such as object orintated programming. The end assingment for CMP102 was to create a darts simmulation program. Which would simulate a set amount of games between two fictional players and determin how many games each player would have won based up hit rate of said player. My submission was awared an A+. A snippet is bellow</description>
+      <guid>https://ciaran1111.me/post/program2/</guid>
+      <description>this module, was on evolution on the previous C++ module. This module most notably took a look into concepts such as object orintated programming. The end assingment for CMP102 was to create a darts simmulation program. Which would simulate a set amount of games between two fictional players and determin how many games each player would have won based up hit rate of said player. My submission was awared an A+.</description>
     </item>
     
     <item>
       <title>CMP104( Programming with C&#43;&#43;)</title>
-      <link>https://ciaran1111.me/post/cmp104/</link>
+      <link>https://ciaran1111.me/post/program1/</link>
       <pubDate>Tue, 02 Aug 2022 19:21:47 +0100</pubDate>
       
-      <guid>https://ciaran1111.me/post/cmp104/</guid>
+      <guid>https://ciaran1111.me/post/program1/</guid>
       <description>This was one of the first modules apart of my course and was also my first real experience with C++. The module is designed for all levels of programmers to help people familiarise themselves with C++ before moving onto more complex programs in later years. Having programmed before with python, java and visual basic(in school) i found myself being ahead of the module. The main assignment was to create a cyber pet game which the aim was to keep your pet alive by allowing to sleep and eat.</description>
-    </item>
-    
-    <item>
-      <title>CMP110</title>
-      <link>https://ciaran1111.me/post/cmp110/</link>
-      <pubDate>Tue, 02 Aug 2022 19:19:26 +0100</pubDate>
-      
-      <guid>https://ciaran1111.me/post/cmp110/</guid>
-      <description>Intro to security research paper lorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsumlorum ipsum</description>
     </item>
     
   </channel>
